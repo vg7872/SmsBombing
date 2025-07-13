@@ -1,16 +1,25 @@
 Git hub : 
+1. To clone or download the project from github:
+Git clone <URL>
+ex.: git clone https://github.com/vg7872/StudentServiceApplication.git
 
-1. Git clone <URL> : to clone the repo
+2. Always, main branch gets downloaded.
+So to checkout to any branch/feature branch, Please use this command :
 
-2. git status : TO see the changes.
+git checkout <branchName>
+ex.: git checkout feature/develop
 
 
-Push korar step :
+3. To check the status of changes :
+git status
 
-1. git add *
+4. Steps to push/upload the changes to github repository:
 
-2. git commit -m "<Message>"
+    a. git add *
 
-3. git pull
+    b. git commit -m "<Message>"
+        ex..: git commit -m "Initial commit"
 
-4. git push  || git push origin
+    c. git pull
+
+    d. git push  || git push origin
