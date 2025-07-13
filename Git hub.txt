@@ -1,0 +1,16 @@
+Git hub : 
+
+1. Git clone <URL> : to clone the repo
+
+2. git status : TO see the changes.
+
+
+Push korar step :
+
+1. git add *
+
+2. git commit -m "<Message>"
+
+3. git pull
+
+4. git push  || git push origin

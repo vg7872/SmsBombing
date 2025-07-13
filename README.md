@@ -1,2 +1,2 @@
 # SmsBombing
-This is my own springboot application.........................................................
+This is my own springboot application.
